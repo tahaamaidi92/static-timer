@@ -1,0 +1,28 @@
+.background{
+  margin: 10% 10%;
+  padding: 20px;
+  background-color: black;
+  align-content: center
+}
+.div1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+.p-div1{
+  margin:0 10px;
+  color: white;
+}
+.div2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+.p-div2{
+  margin: 0 40px;
+  color: gray
+}
